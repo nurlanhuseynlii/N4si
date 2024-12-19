@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <p>Hi, i'm Nurlan :wave:</p>
-  <p>I'm Artificial enginer and Machine learning enginer :rocket:</p>
+  <p>I'm Artificial enginer and Machine learning enginer 🧑‍💻</p>
   <div>
   </div>
   
